@@ -18,4 +18,4 @@ Currently working with **ASP.NET Core**, **React**, and **TypeScript** — and l
 
 **[ItemNest](https://github.com/TheFlee/itemnest)** — A lost-and-found platform with role-based access, Google OAuth, and dual EN/AZ language support. Built with ASP.NET Core + React.
 
-**[Solum: The Last Star]Vampire Survivors-style game** — A 2D top-down survival game being built in Godot 4 with C#. Early stages, learning as I go.
+**Vampire Survivors-style game** — A 2D top-down survival game being built in Godot 4 with C#. Early stages, learning as I go.
