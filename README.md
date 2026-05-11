@@ -12,10 +12,3 @@ Currently working with **ASP.NET Core**, **React**, and **TypeScript** — and l
 **Mobile** — React Native  
 **Tools** — Git, SQL Server, Postman
 
----
-
-## 🚀 Current Projects
-
-**[ItemNest](https://github.com/TheFlee/itemnest)** — A lost-and-found platform with role-based access, Google OAuth, and dual EN/AZ language support. Built with ASP.NET Core + React.
-
-**Vampire Survivors-style game** — A 2D top-down survival game being built in Godot 4 with C#. Early stages, learning as I go.
