@@ -1,74 +1,107 @@
-<h1 align="center">Firidun Hasanli</h1>
+<!-- ==================== HEADER ==================== -->
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer</b> &nbsp;·&nbsp; .NET &amp; React &nbsp;·&nbsp; Baku, Azerbaijan
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Firidun+Hasanli+%F0%9F%91%8B;Full-Stack+Developer+%7C+.NET+%2B+React;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/firidun-hasanli-85a4b4268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/TheFlee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TheFlee&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/firidun-hasanli-85a4b4268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/TheFlee">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Baku,%20Azerbaijan-333333?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+</div>
 
----
+<!-- ==================== ABOUT ==================== -->
+## 👨‍💻 About Me
 
-### Summary
+```yaml
+name:      Firidun Hasanli
+role:      Full-Stack Developer
+location:  Baku, Azerbaijan
+focus:     [ ".NET / C#", "React / TypeScript", "React Native", "Cloud (AWS)" ]
+mindset:   "Clean architecture, maintainable code, features that work in production."
+languages: [ "Azerbaijani", "English", "Russian" ]
+status:    Open to freelance & collaboration
+```
 
-Full-stack developer specializing in **ASP.NET Core / C#** and **React / TypeScript**, with hands-on experience delivering production applications end to end — from API and database design through authentication, cloud deployment, and release. Recently completed a full-stack internship at a leading Azerbaijani holding company. Focused on clean architecture, maintainable code, and shipping features that work in production.
+- 🔭 I build **full-stack web & mobile applications** end to end — API and database design through auth, deployment, and release
+- 🧩 Backend with **ASP.NET Core 9 / C#**, frontend with **React + TypeScript**, mobile with **React Native**
+- ☁️ Comfortable deploying to **AWS** (EC2, RDS, S3)
+- 💼 Completed a full-stack internship at **Azersun Holding**, delivering two production ASP.NET Core 9 + React systems
 
----
+<br/>
 
-### Experience
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
 
-**Full-Stack Developer Intern** — Azersun Holding MMC, IT Department
-*Baku, Azerbaijan · February – June 2026*
+<div align="center">
 
-- Developed two production **ASP.NET Core 9 + React** applications alongside the internal IT team
-- Built **ProjectPanel**, an internal project management system for tracking projects and database resources
-- Built **Product Catalogue**, a product catalogue management system
-- Implemented REST APIs, authentication, and database integration; collaborated within an established engineering workflow
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vite,tailwind,aws,git,github,visualstudio&theme=dark" alt="Tech stack" />
 
----
+</div>
 
-### Featured Projects
+<div align="center">
+<sub>C# · ASP.NET Core · Entity Framework Core · TypeScript · JavaScript · React · React Native · Vite · Tailwind CSS · SQL Server · AWS · Git</sub>
+</div>
 
-**ItemNest** — Lost &amp; Found Platform &nbsp;·&nbsp; [Repository](https://github.com/TheFlee/ItemNest)
-Full-stack platform built with **ASP.NET Core 9** and **React / TypeScript**. Implemented JWT and Google OAuth authentication, role-based access control, real-time item matching, and full bilingual (EN/AZ) support. Deployed to **AWS** using EC2, RDS (SQL Server), and S3.
+<br/>
 
-**ProjectPanel** — Project Management Tool
-Internal management application built with **ASP.NET Core 9** and **React**, focused on structured project and database resource management.
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+## 📊 GitHub Analytics
 
----
+<div align="center">
 
-### Technical Skills
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFlee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
+<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=TheFlee&theme=tokyonight&hide_border=true" alt="Streak"/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vite,tailwind,aws,git,github,visualstudio&theme=light" alt="Technical skills" />
-</p>
+</div>
 
-**Backend:** C#, ASP.NET Core 9, Entity Framework Core, REST APIs
-**Frontend:** React, TypeScript, JavaScript, Vite, Tailwind CSS
-**Mobile:** React Native
-**Cloud &amp; Data:** AWS (EC2, RDS, S3), SQL Server
-**Tools:** Git, GitHub, Visual Studio
-**Practices:** Authentication (JWT, OAuth), role-based access control, clean architecture
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFlee&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
 
-### Education
+</div>
 
-**StepIT Academy** — Full-Stack Development Program
-Coursework and projects across full-stack web and mobile development, including cloud deployment on AWS.
+<br/>
 
----
+<!-- ==================== FEATURED PROJECTS ==================== -->
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFlee&layout=compact&theme=default&hide_border=true&langs_count=6" alt="Top languages" height="150"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/TheFlee/ItemNest">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFlee&repo=ItemNest&theme=tokyonight&hide_border=true" alt="ItemNest"/>
+</a>
+
+</div>
+
+**ItemNest** — Lost &amp; Found Platform
+Full-stack platform built with **ASP.NET Core 9** and **React / TypeScript**. JWT + Google OAuth authentication, role-based access control, real-time item matching, and full bilingual (EN/AZ) support. Deployed to **AWS** (EC2, RDS, S3).
+
+**ProjectPanel** — Project Management System
+Internal management tool built with **ASP.NET Core 9** and **React** for structured project and database resource management. Developed during my internship at Azersun Holding.
+
+<br/>
+
+<!-- ==================== TROPHIES ==================== -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheFlee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ==================== FOOTER ==================== -->
+<div align="center">
+
+### 💬 Let's build something great together
+
+<a href="https://www.linkedin.com/in/firidun-hasanli-85a4b4268/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<sub>⭐️ Thanks for stopping by my profile</sub>
+
+</div>
