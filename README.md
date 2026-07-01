@@ -35,39 +35,13 @@ status:    Open to freelance & collaboration
 <!-- ==================== TECH STACK ==================== -->
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,vite,tailwind,aws,git,github,visualstudio&theme=dark" alt="Tech stack" />
-
-</div>
-
-<div align="center">
-<sub>C# · ASP.NET Core · Entity Framework Core · TypeScript · JavaScript · React · React Native · Vite · Tailwind CSS · SQL Server · AWS · Git</sub>
-</div>
-
-<br/>
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-## 📊 GitHub Analytics
-
-<!--
-  Stats card, top-languages and repo pin use github-stats-extended
-  (the actively maintained successor to github-readme-stats, own public instance).
-  Want private-repo stats too? Optionally self-host it and swap the domain.
--->
-
-<div align="center">
-
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=TheFlee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats"/>
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=TheFlee&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheFlee&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity graph"/>
-
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![](https://skillicons.dev/icons?i=cs,ts,js&theme=dark) |
+| **Backend** | ![](https://skillicons.dev/icons?i=dotnet&theme=dark) &nbsp; ASP.NET Core · Entity Framework Core · SQL Server |
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark) |
+| **Mobile** | ![](https://skillicons.dev/icons?i=react&theme=dark) &nbsp; React Native |
+| **Cloud & Tools** | ![](https://skillicons.dev/icons?i=aws,git,github,visualstudio&theme=dark) |
 
 <br/>
 
