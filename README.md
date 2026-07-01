@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm TheFlee 👋</h1>
+<h1 align="center">Hi, I'm TheFlee </h1>
 
 <p align="center">
   Full-stack developer based in Baku, Azerbaijan 🇦🇿 — building web and mobile applications with <b>.NET</b> and <b>React</b>.
