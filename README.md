@@ -51,7 +51,7 @@ status:    Open to freelance & collaboration
 
 **Frontend & Mobile**
 <br/>
-<img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React"/> <img width="45" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js"/> <img width="45" src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite"/> <img width="45" src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS"/> <img width="45" src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML"/> <img width="45" src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS"/> <img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" alt="React Native"/> <img width="45" src="assets/expo.svg" title="Expo" alt="Expo"/>
+<img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React"/> <img width="45" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js"/> <img width="45" src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite"/> <img width="45" src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS"/> <img width="45" src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" alt="HTML"/> <img width="45" src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" alt="CSS"/> <img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" alt="React Native"/> <img width="45" src="expo.svg" title="Expo" alt="Expo"/>
 
 <br/><br/>
 
