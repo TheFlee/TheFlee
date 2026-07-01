@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm TheFlee 👋</h1>
 
 <p align="center">
-  Full-stack developer from Baku, Azerbaijan 🇦🇿 — I build web and mobile apps with <b>.NET</b> and <b>React</b>.
+  Full-stack developer based in Baku, Azerbaijan 🇦🇿 — building web and mobile applications with <b>.NET</b> and <b>React</b>.
 </p>
 
 ---
 
-### 🛠️ About me
+### 👨‍💻 About me
 
-- 🔭 Full-stack dev working across **ASP.NET Core / C#** on the back end and **React + TypeScript** on the front end
-- 📱 Building cross-platform mobile apps with **React Native**
+- 🔭 Full-stack developer working with **ASP.NET Core / C#** on the back end and **React + TypeScript** on the front end
+- 📱 Building cross-platform mobile applications with **React Native**
 - 🎓 Studying at **StepIT Academy**; completed a full-stack internship at **Azersun Holding**
-- 🧩 Comfortable across the whole cycle — API design, auth, cloud deployment, and shipping
-- 🌍 I work in Azerbaijani, English, and Russian
-- 💬 Open to freelance and collaboration
+- 🧩 Experienced across the full cycle — API design, authentication, cloud deployment, and delivery
+- 🌍 Working languages: Azerbaijani, English, Russian
+- 💬 Open to freelance work and collaboration
 
 ---
 
@@ -50,10 +50,10 @@
 ### 🚀 Featured Projects
 
 **[ItemNest](https://github.com/TheFlee)** — Lost & Found platform
-A full-stack app built with ASP.NET Core 9 and React/TypeScript. JWT + Google OAuth, role-based access, real-time item matching, and full EN/AZ bilingual support. Deployed on AWS (EC2, RDS, S3).
+A full-stack application built with ASP.NET Core 9 and React/TypeScript. Features JWT and Google OAuth authentication, role-based access control, real-time item matching, and full EN/AZ bilingual support. Deployed on AWS (EC2, RDS, S3).
 
-**[Solum: The Last Star](https://itch.io)** — Roguelite game
-A roguelite built in Godot 4 with C#, taken through the full cycle from prototype to balance, audio, and release on itch.io.
+**ProjectPanel** — Internal project management tool
+An ASP.NET Core 9 + React application for managing projects and database resources, built during my internship at Azersun Holding.
 
 ---
 
@@ -63,12 +63,6 @@ A roguelite built in Godot 4 with C#, taken through the full cycle from prototyp
   <img src="https://github-readme-stats.vercel.app/api?username=TheFlee&show_icons=true&theme=tokyonight&hide_border=true" alt="TheFlee's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFlee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 </p>
-
----
-
-### ♟️ Beyond code
-
-When I'm not shipping code, I'm playing chess, running a Minecraft server for friends, or racing in Forza Horizon.
 
 ---
 
