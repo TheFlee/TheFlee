@@ -39,7 +39,7 @@ Full-stack developer specializing in **ASP.NET Core / C#** and **React / TypeScr
 
 ### Featured Projects
 
-**ItemNest** — Lost &amp; Found Platform &nbsp;·&nbsp; [Repository](https://github.com/TheFlee)
+**ItemNest** — Lost &amp; Found Platform &nbsp;·&nbsp; [Repository](https://github.com/TheFlee/ItemNest)
 Full-stack platform built with **ASP.NET Core 9** and **React / TypeScript**. Implemented JWT and Google OAuth authentication, role-based access control, real-time item matching, and full bilingual (EN/AZ) support. Deployed to **AWS** using EC2, RDS (SQL Server), and S3.
 
 **ProjectPanel** — Project Management Tool
