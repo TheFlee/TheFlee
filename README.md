@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Firidun+Hasanli+%F0%9F%91%8B;Full-Stack+Developer+%7C+.NET+%2B+React;Turning+ideas+into+shipped+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Firidun+Hasanli;Full-Stack+Developer+%7C+.NET+%2B+React;Turning+ideas+into+shipped+products" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/firidun-hasanli-85a4b4268/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
