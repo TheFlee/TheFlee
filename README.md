@@ -35,32 +35,14 @@ status:    Open to freelance & collaboration
 <!-- ==================== TECH STACK ==================== -->
 ## 🛠️ Tech Stack
 
-| Category | Technologies |
+| Category | Stack |
 | :--- | :--- |
-| **Languages** | ![](https://skillicons.dev/icons?i=cs,ts,js&theme=dark) |
-| **Backend** | ![](https://skillicons.dev/icons?i=dotnet&theme=dark) &nbsp; ASP.NET Core · Entity Framework Core · SQL Server |
-| **Frontend** | ![](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark) |
-| **Mobile** | ![](https://skillicons.dev/icons?i=react&theme=dark) &nbsp; React Native |
-| **Cloud & Tools** | ![](https://skillicons.dev/icons?i=aws,git,github,visualstudio&theme=dark) |
-
-<br/>
-
-<!-- ==================== FEATURED PROJECTS ==================== -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/TheFlee/ItemNest">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheFlee&repo=ItemNest&theme=tokyonight&hide_border=true" alt="ItemNest"/>
-</a>
-
-</div>
-
-**ItemNest** — Lost &amp; Found Platform
-Full-stack platform built with **ASP.NET Core 9** and **React / TypeScript**. JWT + Google OAuth authentication, role-based access control, real-time item matching, and full bilingual (EN/AZ) support. Deployed to **AWS** (EC2, RDS, S3).
-
-**ProjectPanel** — Project Management System
-Internal management tool built with **ASP.NET Core 9** and **React** for structured project and database resource management. Developed during my internship at Azersun Holding.
+| **Languages** | <img width="45" src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" alt="C#"/> <img width="45" src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" alt="C++"/> <img width="45" src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" alt="TypeScript"/> <img width="45" src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript"/> <img width="45" src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" alt="Python"/> |
+| **Backend** | <img width="45" src="https://skillicons.dev/icons?i=dotnet&theme=dark" title="ASP.NET Core · ADO.NET · Entity Framework Core · SQL Server" alt=".NET"/> |
+| **Frontend** | <img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React"/> <img width="45" src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" alt="Next.js"/> <img width="45" src="https://skillicons.dev/icons?i=vite&theme=dark" title="Vite" alt="Vite"/> <img width="45" src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" alt="Tailwind CSS"/> <img width="45" src="https://skillicons.dev/icons?i=html,css&theme=dark" title="HTML & CSS" alt="HTML & CSS"/> |
+| **Mobile** | <img width="45" src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" alt="React Native"/> |
+| **Cloud & DevOps** | <img width="45" src="https://skillicons.dev/icons?i=aws&theme=dark" title="AWS (EC2, RDS, S3)" alt="AWS"/> <img width="45" src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker"/> |
+| **Tools** | <img width="45" src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git"/> <img width="45" src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub"/> <img width="45" src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="Visual Studio" alt="Visual Studio"/> |
 
 <br/>
 
