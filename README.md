@@ -50,9 +50,15 @@ status:    Open to freelance & collaboration
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 ## 📊 GitHub Analytics
 
+<!--
+  Stats card, top-languages and repo pin use github-stats-extended
+  (the actively maintained successor to github-readme-stats, own public instance).
+  Want private-repo stats too? Optionally self-host it and swap the domain.
+-->
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheFlee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=TheFlee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats"/>
 <img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=TheFlee&theme=tokyonight&hide_border=true" alt="Streak"/>
 
 </div>
@@ -71,7 +77,7 @@ status:    Open to freelance & collaboration
 <div align="center">
 
 <a href="https://github.com/TheFlee/ItemNest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheFlee&repo=ItemNest&theme=tokyonight&hide_border=true" alt="ItemNest"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=TheFlee&repo=ItemNest&theme=tokyonight&hide_border=true" alt="ItemNest"/>
 </a>
 
 </div>
@@ -81,17 +87,6 @@ Full-stack platform built with **ASP.NET Core 9** and **React / TypeScript**. JW
 
 **ProjectPanel** — Project Management System
 Internal management tool built with **ASP.NET Core 9** and **React** for structured project and database resource management. Developed during my internship at Azersun Holding.
-
-<br/>
-
-<!-- ==================== TROPHIES ==================== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheFlee&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
-
-</div>
 
 <br/>
 
