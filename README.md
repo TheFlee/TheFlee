@@ -69,34 +69,15 @@ Self-hosted infrastructure on an **Oracle Cloud ARM64** VM — built and operate
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🎮 &nbsp;Solum: The Last Star
-
-A complete game built in **Godot** with **C#** scripting — my first finished game project.
-
-- Custom scenes, scripts and audio
-- Gameplay loop and state handling from scratch
-- Packaged for **itch.io** release
-
-<sub>`Godot` `C#` `Game Dev`</sub>
-
-[**Code**](https://github.com/TheFlee/Solum-The-Last-Star)
-
-</td>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 #### 📚 &nbsp;StepIT Coursework
 
-A full training track — JavaScript fundamentals through to production-shaped applications.
+A full training track — JavaScript fundamentals through to production-shaped applications. Backend with **ASP.NET Core** and **Entity Framework**, frontend with **React**, **Next.js** and **React Native**, plus **AWS Lambda**, **Docker**, and network/system programming in **C#**.
 
-- **ASP.NET Core**, **React**, **Next.js**, **React Native**
-- **AWS Lambda**, **Docker**, **Entity Framework**
-- Network and system programming in **C#**
+<sub>`C#` `TypeScript` `React` `Next.js` `React Native` `AWS` `Docker`</sub>
 
-<sub>`C#` `TypeScript` `React` `AWS`</sub>
-
-[**Browse**](https://github.com/TheFlee?tab=repositories&q=StepIT)
+[**Browse the repositories**](https://github.com/TheFlee?tab=repositories&q=StepIT)
 
 </td>
 </tr>
