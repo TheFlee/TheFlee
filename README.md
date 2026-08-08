@@ -21,7 +21,7 @@ role:      Full-Stack Developer
 location:  Baku, Azerbaijan
 focus:     [ ".NET / C#", "React / TypeScript", "React Native", "Cloud & DevOps" ]
 mindset:   "Clean architecture, maintainable code, features that work in production."
-languages: [ "Azerbaijani", "English", "Russian" ]
+languages: [ "Azerbaijani", "Turkish", "English", "Russian" ]
 status:    Open to freelance & collaboration
 ```
 
@@ -39,54 +39,64 @@ status:    Open to freelance & collaboration
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [ItemNest](https://github.com/TheFlee/ItemNest)
+#### 🛒 &nbsp;ItemNest
 
-Full-stack web application with a **React + TypeScript** frontend and an **ASP.NET Core** API, backed by **PostgreSQL**.
+Full-stack marketplace app — **React + TypeScript** frontend, **ASP.NET Core** API, **PostgreSQL** store.
 
-- Real-time chat built on **SignalR** over WebSockets
+- Real-time chat over **SignalR** WebSockets
 - Fully **containerised with Docker**
-- Deployed behind **nginx** with **Let's Encrypt TLS**
+- Behind **nginx** with **Let's Encrypt TLS**
 
-`TypeScript` `C#` `ASP.NET Core` `PostgreSQL` `Docker` `SignalR`
+<sub>`TypeScript` `C#` `ASP.NET Core` `PostgreSQL` `Docker`</sub>
 
-**[🌐 Live →](https://itemnest.theflee.cc)**
+[**Live**](https://itemnest.theflee.cc) &nbsp;·&nbsp; [**Code**](https://github.com/TheFlee/ItemNest)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 [theflee.cc](https://theflee.cc)
+#### 🌍 &nbsp;theflee.cc
 
-Self-hosted infrastructure running on an **Oracle Cloud ARM64** VM — everything below is mine end to end.
+Self-hosted infrastructure on an **Oracle Cloud ARM64** VM — built and operated end to end.
 
-- **Docker** game-server hosting, managed via a custom panel
-- Automated **encrypted offsite backups** to Cloudflare R2
-- **Health monitoring** with alerting, and tested disaster recovery
+- **Docker** hosting behind a custom control panel
+- **Encrypted offsite backups** to Cloudflare R2
+- Health monitoring, alerting, tested recovery
 
-`Linux` `Docker` `nginx` `Bash` `Python` `Cloudflare`
+<sub>`Linux` `Docker` `nginx` `Bash` `Python` `Cloudflare`</sub>
 
-**[🌐 Live →](https://theflee.cc)**
+[**Live**](https://theflee.cc)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [Solum: The Last Star](https://github.com/TheFlee/Solum-The-Last-Star)
+#### 🎮 &nbsp;Solum: The Last Star
 
-My first game project, built in **C#** — gameplay loop, state handling, and rendering written from the ground up.
+A complete game built in **Godot** with **C#** scripting — my first finished game project.
 
-`C#` `Game Dev`
+- Custom scenes, scripts and audio
+- Gameplay loop and state handling from scratch
+- Packaged for **itch.io** release
+
+<sub>`Godot` `C#` `Game Dev`</sub>
+
+[**Code**](https://github.com/TheFlee/Solum-The-Last-Star)
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 [StepIT Coursework](https://github.com/TheFlee?tab=repositories&q=StepIT)
+#### 📚 &nbsp;StepIT Coursework
 
-A full training track, from JavaScript fundamentals through to production-shaped apps.
+A full training track — JavaScript fundamentals through to production-shaped applications.
 
-Covers **ASP.NET Core**, **React**, **Next.js**, **React Native**, **AWS Lambda**, **Docker**, and network/system programming.
+- **ASP.NET Core**, **React**, **Next.js**, **React Native**
+- **AWS Lambda**, **Docker**, **Entity Framework**
+- Network and system programming in **C#**
 
-`C#` `TypeScript` `React` `AWS`
+<sub>`C#` `TypeScript` `React` `AWS`</sub>
+
+[**Browse**](https://github.com/TheFlee?tab=repositories&q=StepIT)
 
 </td>
 </tr>
