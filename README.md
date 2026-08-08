@@ -112,22 +112,6 @@ Covers **ASP.NET Core**, **React**, **Next.js**, **React Native**, **AWS Lambda*
 
 <br/>
 
-<!-- ==================== STATS ==================== -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheFlee&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFlee&layout=compact&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheFlee&hide_border=true&background=0D1117&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&stroke=7AA2F7&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="Streak"/>
-
-</div>
-
-<br/>
-
 <!-- ==================== FOOTER ==================== -->
 <div align="center">
 
